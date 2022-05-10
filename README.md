@@ -6,7 +6,7 @@ Web Developer | Computer Science | Always learning
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [andersongonhi@gmail.com](mailto:andersongonhi@gmail.com)
-* 🧠  I'm learning JavaScript | Bootstrap | NodeJS
+* 🧠  I'm learning | Bootstrap | JavaScript | NodeJS | React
 
 ### Skills
 
